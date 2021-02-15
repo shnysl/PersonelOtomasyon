@@ -1,0 +1,29 @@
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe.config
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.pdb
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Form1.resources
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Properties.Resources.resources
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.exe
+C:\Users\sahin\source\repos\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe.config
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Form1.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Properties.Resources.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.pdb
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe.config
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.exe
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\bin\Debug\PersonelApplication.pdb
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csprojAssemblyReference.cache
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Form1.resources
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.Properties.Resources.resources
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.GenerateResource.cache
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.csproj.CoreCompileInputs.cache
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.exe
+E:\C# Kursu\PROJELER\PersonelApplication\PersonelApplication\obj\Debug\PersonelApplication.pdb
